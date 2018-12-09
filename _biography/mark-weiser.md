@@ -2,7 +2,7 @@
 author: dechrysou
 title: "Mark Weiser"
 image_url: /images/mark-weiser.jpg
-caption: "O Mark Weiser θεωρείται o οραματιστής και εισηγητής του Ubiquitous Computing και οι ιδέες του έχουν επηρεάσει πολλούς από τους καλύτερους επιστήμονες στον κόσμο."
+caption: "O Mark Weiser θεωρείται o οραματιστής και εισηγητής του Ubiquitous Computing και οι ιδέες του έχουν επηρεάσει πολλούς επιστήμονες στον κόσμο."
 categories:
   - biography
   - definition
