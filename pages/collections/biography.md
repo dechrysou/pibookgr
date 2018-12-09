@@ -31,5 +31,3 @@ coming soon...
 [David Canfield Smith]
 
 [J. C. R. Licklider]
-
-[Marc Weiser]
