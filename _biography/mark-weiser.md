@@ -14,7 +14,7 @@ tags:
 gallery:
   - image_url: /images/mark-weiser.jpg
     caption: "Ο Mark Weiser ήταν ο οραματιστής του Ubiquitous Computing."
-  - image_url: /images/mark-weiser_band.jpg
+  - image_url: /images/mark-weiser-band.jpg
     caption: "Alan Kay playing in the band Severe Tie Damage"
 ---
 
