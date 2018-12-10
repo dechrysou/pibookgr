@@ -13,7 +13,7 @@ tags:
   - Xerox Corperation
 gallery:
   - image_url: /images/mark-weiser.jpg
-    caption: "Ο Mark Weiser ήταν ο οραματιστής του Ubiquitous Computing."
+    caption: "Ο Mark Weiser ήταν ο οραματιστής του Ubiquitous Computing." 
   - image_url: /images/mark-weiser-band.jpg
     caption: "Mark Weiser playing in the band Severe Tie Damage."
 ---
