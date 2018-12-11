@@ -12,7 +12,7 @@ caption: 'Οι Χάρτες Google (Αγγλικά: Google Maps) είναι υπ
 Αξιοσημείωτο είναι ότι σε αναβάθμιση τον Ιούλιο του 2012, η Ελλάδα ήταν μία από τις 11 χώρες που επιλέχθηκαν.'
 
 license_image: 'https://commons.wikimedia.org/wiki/Category:Google_Maps#/media/File:GoogleMaps_logo.svg'
-license_text: 'https://el.wikipedia.org/wiki/%CE%A7%CE%AC%CF%81%CF%84%CE%B5%CF%82_Google'
+license_text: 'https://el.wikipedia.org/wiki/Χάρτες_Google'
 categories:
   - gallery
 tags:
