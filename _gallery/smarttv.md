@@ -11,6 +11,7 @@ license_image: 'https://en.wikipedia.org/wiki/Smart_TV#/media/File:LG_Smart_TV_w
 license_text: 'https://el.wikipedia.org/wiki/Έξυπνη_τηλεόραση'
 categories:
   - gallery
+  - smart devices
 tags:
   - tv
   - smart devices
