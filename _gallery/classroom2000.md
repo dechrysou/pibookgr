@@ -9,7 +9,7 @@ caption: 'Η Classroom 2000 είναι ένα project που δημιουργή�
 προσπελάσιμη διεπαφή, μειώνεται η ανάγκη λήψης σημειώσεων, επιτρέποντας στον μαθητή να εμπλακεί και να κατανοήσει καλύτερα
 τη συζήτηση στην τάξη.'
 
-license_image: 'https://en.wikipedia.org/wiki/Smartglasses#/media/File:A_Google_Glass_wearer.jpg'
+license_image: 'https://www.cc.gatech.edu/fce/c2000/overview'
 license_text: 'https://en.wikipedia.org/wiki/Smartglasses'
 categories:
   - gallery
