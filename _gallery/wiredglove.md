@@ -1,6 +1,6 @@
 ---
 author: dechrysou
-title: wire glove
+title: wired glove
 image_url: /images/wiredglove.jpg
 image_thumb: /images/wiredglove-thumb.jpg
 caption: 'Ένα ενσύρματο γάντι (που ονομάζεται επίσης "dataglove" ή "cyberglove") είναι μια συσκευή εισόδου για αλληλεπίδραση
