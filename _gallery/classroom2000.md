@@ -1,19 +1,19 @@
 ---
 author: dechrysou
-title: classroom2000
-image_url: /images/classroom2000.jpg
-caption: 'Η Classroom 2000 είναι ένα project που δημιουργήθηκε στο College of Computing and GVU Center at Georgia Tech
-με σκοπό  να μελετηθεί η επίδραση του διάχυτου υπολογισμού στην εκπαίδευση. Δημιούργησε ένα πρότυπο περιβάλλον στην τάξη
-με την απαραίτητη υποδομή λογισμικού για την απρόσκοπτη σύλληψη μεγάλου μέρους της πλούσιας αλληλεπίδρασης που συμβαίνει
-σε μια τυπική πανεπιστημιακή διάλεξη. Καταγράφοντας τα διάφορα είδη δραστηριότητας στην τάξη και παρουσιάζοντας μια εύκολα
-προσπελάσιμη διεπαφή, μειώνεται η ανάγκη λήψης σημειώσεων, επιτρέποντας στον μαθητή να εμπλακεί και να κατανοήσει καλύτερα
-τη συζήτηση στην τάξη.'
-license_image: 'https://www.cc.gatech.edu/fce/c2000/overview/'
-license_text: 'https://www.cc.gatech.edu/fce/c2000/overview/'
+title: smartglasses
+image_url: /images/smartglasses.jpg
+caption: 'Τα smartglasses ή τα έξυπνα γυαλιά είναι φορητά γυαλιά υπολογιστών που προσθέτουν πληροφορίες παράλληλα ή σε ό,τι
+βλέπει ο χρήστης. Εναλλακτικά, οι έξυπνες επιφάνειες μερικές φορές ορίζονται ως φορητά γυαλιά υπολογιστών που μπορούν να
+αλλάξουν τις οπτικές τους ιδιότητες κατά το χρόνο εκτέλεσης. Τα έξυπνα γυαλιά ηλίου τα οποία έχουν προγραμματιστεί να αλλάζουν
+απόχρωση με ηλεκτρονικά μέσα είναι ένα παράδειγμα του τελευταίου τύπου έξυπνων γυαλιών.'
+license_image: 'https://en.wikipedia.org/wiki/Smartglasses#/media/File:A_Google_Glass_wearer.jpg'
+license_text: 'https://en.wikipedia.org/wiki/Smartglasses'
 categories:
   - gallery
+  - smart devices
 tags:
-  - education
-  - classroom
-  - ubiquitous
- ---
+  - eyewear
+  - wearable
+  - input-device
+  - output-device
+---
