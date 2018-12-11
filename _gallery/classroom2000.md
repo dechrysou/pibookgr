@@ -10,7 +10,7 @@ caption: 'Η Classroom 2000 είναι ένα project που δημιουργή�
 τη συζήτηση στην τάξη.'
 
 license_image: 'https://www.cc.gatech.edu/fce/c2000/overview'
-license_text: ''https://www.cc.gatech.edu/fce/c2000/overview'
+license_text: 'https://www.cc.gatech.edu/fce/c2000/overview'
 categories:
   - gallery
 tags:
