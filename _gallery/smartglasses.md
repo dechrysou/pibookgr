@@ -9,11 +9,11 @@ caption: 'Τα smartglasses ή τα έξυπνα γυαλιά είναι φορ�
 license_image: 'https://en.wikipedia.org/wiki/Smartglasses#/media/File:A_Google_Glass_wearer.jpg'
 license_text: 'https://en.wikipedia.org/wiki/Smartglasses'
 categories:
-  - archetypes
-  - graphics
+  - gallery
   - smart devices
 tags:
   - eyewear
   - wearable
   - input-device
+  - output-device
 ---
