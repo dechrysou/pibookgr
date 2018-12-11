@@ -13,7 +13,6 @@ license_image: 'https://en.wikipedia.org/wiki/Smartglasses#/media/File:A_Google_
 license_text: 'https://en.wikipedia.org/wiki/Smartglasses'
 categories:
   - gallery
-  - smart devices
 tags:
   - eyewear
   - wearable
