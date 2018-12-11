@@ -14,8 +14,7 @@ license_text: 'https://en.wikipedia.org/wiki/Smartglasses'
 categories:
   - gallery
 tags:
-  - eyewear
-  - wearable
-  - input-device
-  - output-device
+  - education
+  - classroom
+  - ubiquitous
 ---
