@@ -15,6 +15,7 @@ categories:
 tags:
   - eyewear
   - wearable
+  - smart devices
   - input-device
   - output-device
 ---
